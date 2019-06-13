@@ -14,3 +14,5 @@ The thesis is managed by [another repository](https://github.com/nicolasying/Mic
 ## Results
 
 View the [brain](/pycortex.html) map generated with pycortex.
+
+The pycortex visualization is generated with fsl auto-alignment. [Manual corrected alignment (unverified)](/pycortexdilated.html) are available too.
