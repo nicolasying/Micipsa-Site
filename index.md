@@ -3,7 +3,7 @@
 Similarity and Association: 
 Principles of Distributed Semantic Processing in the Human Brain, 
 
-a research project conducted within the Cogmaster M2 research internship.
+a research project conducted within the program of Cogmaster and SPEIT Master's, carried out in CAMS - CNRS/EHESS.
 
 
 ## What is Micipsa
@@ -23,9 +23,16 @@ The project is mostly publicly available online disclosing anonymous and insensi
 4. Set up fMRI encoding environment and perform voxel-wise regressions: [Encoding](https://github.com/nicolasying/Micipsa)
 
 
-## Thesis
+## Article/Report
 
-The thesis is managed by [another repository](https://github.com/nicolasying/Micipsa-Thesis).
+An [article](https://www.biorxiv.org/content/10.1101/2020.01.11.899831v1) has been submitted to bioRxiv preprint server. 
+More results coming up.
+
+Functional MRI Investigation on Paradigmatic and Syntagmatic Lexical Semantic Processing
+
+Songsheng Ying, Sabine Ploux
+
+bioRxiv 2020.01.11.899831; doi: https://doi.org/10.1101/2020.01.11.899831 
 
 ## Results
 
